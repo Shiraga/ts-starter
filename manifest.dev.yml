@@ -1,6 +1,4 @@
 application:
 - name: wework-shiraga
-  routes:
-  - route: wework-shiraga.mybluemix.net
-  memory: 512M
+  memory: 256M
   instance: 1
